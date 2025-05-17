@@ -1,0 +1,21 @@
+# Ignore Python virtual environments
+myenv/
+venv/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# VS Code / PyCharm settings
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment & dependency files
+.env
+*.env
+
+*.pkl
